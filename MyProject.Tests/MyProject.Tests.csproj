@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Exercise\Exercise\Exercise.csproj" />
     <ProjectReference Include="..\MyProject\MyProject.csproj" />
   </ItemGroup>
 
